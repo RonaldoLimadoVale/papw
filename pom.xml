@@ -19,9 +19,9 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>papw</sonar.projectKey>
+		<sonar.projectKey>spi20201</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>3911ea833947e63a99fbd83a6bab35ad6279d32c</sonar.login>
+		<sonar.login>012bf60d5c94cd1c27b1d4830cc09eeb095fa7e6</sonar.login>
 	</properties>
 
 	<dependencies>
