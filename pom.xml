@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rodrigofujioka.dev</groupId>
-	<artifactId>webapp</artifactId>
+	<artifactId>Docker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>webapp</name>
+	<name>Docker</name>
 	<description>Projeto da disciplina de programação Avançada para web</description>
 
 	<properties>
